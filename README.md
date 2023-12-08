@@ -31,3 +31,4 @@ This portfolio project is not just about numbers; it's a testament to my analyti
 This portfolio project is a showcase of my skills in SQL and data analysis, providing a tangible example of how I turn raw data into actionable insights. It stands as a testament to my ability to leverage analytical techniques to inform strategic decision-making and drive business success.
 
 --- 
+The dataset is [available here](https://archive.ics.uci.edu/dataset/352/online+retail)
