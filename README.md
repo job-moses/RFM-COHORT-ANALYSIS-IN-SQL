@@ -1,5 +1,8 @@
 # RFM-COHORT-ANALYSIS-IN-SQL
 
+---
+**Skills used:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Pivot tables, Converting Data Types
+---
 
 In the dynamic world of data analytics, one of the most compelling narratives emerges when we dive into customer behavior. This portfolio project is a testament to my proficiency in SQL and data analysis, showcasing the powerful insights derived from Recency, Frequency, and Monetary (RFM) analysis, as well as Cohort analysis.
 
@@ -28,4 +31,3 @@ This portfolio project is not just about numbers; it's a testament to my analyti
 This portfolio project is a showcase of my skills in SQL and data analysis, providing a tangible example of how I turn raw data into actionable insights. It stands as a testament to my ability to leverage analytical techniques to inform strategic decision-making and drive business success.
 
 --- 
-** Skill used**
