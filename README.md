@@ -32,3 +32,4 @@ This portfolio project is a showcase of my skills in SQL and data analysis, prov
 
 --- 
 The dataset is [available here](https://archive.ics.uci.edu/dataset/352/online+retail)
+**(Click here)[https://github.com/job-moses/RFM-COHORT-ANALYSIS-IN-SQL/blob/main/SalesAnalysis.sql]** to proceed to the project code
